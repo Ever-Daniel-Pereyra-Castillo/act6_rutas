@@ -42,8 +42,17 @@ A new Flutter project created with FlutLab - https://flutlab.io
 
 ## Pantalla 8
 ![image](https://github.com/user-attachments/assets/f94d4aee-b09e-431a-84e5-c1f9afbf795f)
+<img width="191" alt="image" src="https://github.com/user-attachments/assets/795cb49d-a066-4151-9ed1-8005b8bced90" />
 
 
+## Panralla 9
+<img width="187" alt="image" src="https://github.com/user-attachments/assets/a082bda9-25da-43ff-959b-ee7f270afdc9" />
+<img width="186" alt="image" src="https://github.com/user-attachments/assets/102031dd-3a67-473d-93cf-7ba0de4e2d47" />
+
+
+## Pantalla 10
+<img width="184" alt="image" src="https://github.com/user-attachments/assets/29e8e5de-daab-4abd-aab5-115c582490e9" />
+<img width="192" alt="image" src="https://github.com/user-attachments/assets/57f23413-18c7-43d2-b21f-bb9006b87e89" />
 
 
 
